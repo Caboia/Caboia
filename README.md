@@ -1,6 +1,6 @@
 ### Hi, im Caio! :smile::wave:
 
-* 🧠 Learing JavaScript and UI Design
+* 🧠 Learning JavaScript and UI Design
 * 🌟 Scrum Experience
 * 👁️‍🗨️ Looking for new learnings
 <img src="https://komarev.com/ghpvc/?username=Caboia&style=flat-square&color=red" alt="views"/>
