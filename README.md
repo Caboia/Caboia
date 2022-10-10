@@ -2,7 +2,7 @@
 
 * 🧠 Learning JavaScript and UI Design
 * 🌟 Scrum Experience
-* 👁️‍🗨️ Looking for new learnings
+* 👁️ Looking for new learnings
 <img src="https://komarev.com/ghpvc/?username=Caboia&style=flat-square&color=red" alt="views"/>
 
 ---
